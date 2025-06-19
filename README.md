@@ -89,7 +89,7 @@ This end-to-end project investigates gender bias in promotion and salary decisio
 
 **Aryan Saxena**  
 🚀 Data Analyst | SQL • Python • Power BI • Machine Learning | Transforming Data into Strategic Insights | AI & Analytics Enthusiast
-📫 [LinkedIn](www.linkedin.com/in/aryan-saxena-615318309) | 🌐 [Portfolio](https://your-portfolio.com)
+📫 [LinkedIn]([www.linkedin.com/in/aryan-saxena-615318309](https://www.linkedin.com/in/aryan-saxena-615318309/)) 
 
 ---
 
